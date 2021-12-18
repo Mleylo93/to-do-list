@@ -1,4 +1,5 @@
 {
+  "homepage":"https://mleylo93.github.io/to-do-list",
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
@@ -10,8 +11,8 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-scripts": "5.0.0",
-    "web-vitals": "^2.1.2",
-    "homepage":"https://mleylo93.github.io/to-do-list"
+    "web-vitals": "^2.1.2"
+  
   },
   "scripts": {
     "start": "react-scripts start",
